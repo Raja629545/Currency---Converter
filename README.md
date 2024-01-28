@@ -1,0 +1,1 @@
+This is a simple Currency Converter Project using basic html, css and javaScript. Here I used currencyAPI for the conversion and it is free of cost. If you contribute on this project please create a pull request.
